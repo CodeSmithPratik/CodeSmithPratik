@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hey there 👋, I'm <YOUR NAME>!</h1>
+<h1 align="center">Hey there 👋, I'm <YOUR NAME>Pratik !</h1>
 <p align="center">
   🚀 Building Crazy software | 🔭 Exploring the unknowns of tech | ⚡ Powered by caffeine
 </p>
