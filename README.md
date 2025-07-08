@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=500&color=1F51FFB4&background=FFFFFF&speed=30&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Love+to+build%2C+break+%26+learn.;Always+evolving+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=33&pause=500&color=4900F7E4&background=FFFFFF&speed=30&center=true&vCenter=true&width=435&height=40&lines=Code.+Create.+Repeat.;Love+to+build%2C+break+%26+learn.;Always+evolving+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
   
 
 </p>
